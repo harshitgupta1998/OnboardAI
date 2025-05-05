@@ -37,12 +37,12 @@ propcache==0.3.1
 protobuf==6.30.2
 PyAudio==0.2.14
 PyJWT==2.10.1
-pypiwin32==223
-pyreadline3==3.5.4
+
+
 python-docx==1.1.2
 python-dotenv==1.1.0
-pyttsx3==2.98
-pywin32==310
+
+
 PyYAML==6.0.2
 requests==2.32.3
 setuptools==79.0.1
